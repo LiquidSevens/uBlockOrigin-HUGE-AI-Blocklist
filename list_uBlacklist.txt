@@ -1778,6 +1778,29 @@
 *://*.homediningkitchen.com/*
 *://*.psichologyanswers.com/*
 *://*.umatechnology.org/*
+*://*.mepis.org/*
+*://*.babelgum.com/*
+*://*.pocketpcmag.com/*
+*://*.ping.fm/*
+*://*.finepix-x100.com/*
+*://*.clarkconnect.com/*
+*://*.eyefi.com/*
+*://*.ditchnet.org/*
+*://*.pixenate.com/*
+*://*.taptu.com/*
+*://*.beginrescueend.com/*
+*://*.ebox-platform.com/*
+*://*.nruns.com/*
+*://*.pjirc.com/*
+*://*.dvdrw.com/*
+*://*.benchmarkreviews.com/*
+*://*.iphonecleaner.net/*
+*://*.dvdactive.com/*
+*://*.kismac-ng.org/*
+*://*.network-inventory-advisor.com/*
+*://*.bestsevenreviews.com/*
+*://*.allgamesbeta.com/*
+*://*.filmdivider.com/*
 
 
 # // VoiceMod shit
